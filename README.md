@@ -9,6 +9,7 @@ Hope this will help you out a bit.
 
 
 =============== Installation =================
+
 1. Download all the files from github.
 2. Import the data from countrylist.sql to your database.
 3. Copy the countrylist folder to your server. (Ex. xampp/htdocs/countrylist).
