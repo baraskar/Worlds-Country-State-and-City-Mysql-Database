@@ -81,7 +81,7 @@ INSERT INTO `location` (`location_id`, `name`, `location_type`, `parent_id`, `is
 (39, 'Cocos (Keeling) Islands', 0, 0, 0),
 (40, 'Switzerland', 0, 0, 0),
 (41, 'Chile', 0, 0, 0),
-(42, 'China', 0, 0, 0),
+(42, 'China', werwerwer0, 0, 0),
 (43, 'CÃ´te dâ€™Ivoire', 0, 0, 0),
 (44, 'Cameroon', 0, 0, 0),
 (45, 'Congo, The Democratic Republic', 0, 0, 0),
